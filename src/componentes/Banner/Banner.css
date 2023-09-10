@@ -1,0 +1,19 @@
+.banner {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.banner img {
+  max-width: 100%;
+}
+
+.logo-aliança {
+  width: 15%;
+  height: 20%;
+}
+
+.logo-horda {
+  width: 15%;
+  height: 20%;
+}
